@@ -13,6 +13,13 @@
 <br>
 
 <br>
+		
+		<button><a href="file:///home/chronos/u-896a6077e6d651bd39c0849176613005d686d7a4/MyFiles/Downloads/MyHTML%202.html">Next page</a></button>
+		
+		<br>
+		
+		<br>
+		
 		<p>Click the button to get your coordinates.</p>
 
 <button onclick="getLocation()">Try It</button>
