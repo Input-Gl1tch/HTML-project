@@ -1,0 +1,44 @@
+h2 {
+	font-size: 60px;
+}
+
+
+body {
+	background-color: black;
+}
+
+
+body {
+	color: GhostWhite;
+} 
+
+body {
+  text-align: center;
+} 
+
+
+h1 {
+	font-size: 70px;
+}
+
+
+h3 {
+	font-size: 50px;
+}
+
+
+p {
+	font-size: 30px;
+} 
+
+
+
+button {
+	background-color: GhostWhite;
+	color: black;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+} 
