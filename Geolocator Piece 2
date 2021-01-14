@@ -1,0 +1,43 @@
+  <!DOCTYPE html>
+<html lang='en'>
+	
+	<body>
+		
+			<meta charset="utf-8">
+		
+		<link rel="stylesheet" href="Stylesheet.css">
+		
+		<div>
+			
+		<h2>Please Enter Your Info</h2>
+		
+		<input placeholder="Email">
+			
+		<br>
+			
+		<input placeholder="Password" type="password">
+			
+		<br>
+			
+			<br>
+			
+			<button><a href='file:///home/chronos/u-896a6077e6d651bd39c0849176613005d686d7a4/MyFiles/Downloads/Closing%20Page.html'>Submit</a></button>
+		
+		</div>
+		
+		<br>
+		
+		<br>
+		
+		
+		<div>
+			
+		<h3>Date of Birth</h3>
+			
+			
+		<input placeholder="Date of Birth" type="date">
+			
+		</div>
+		
+	</body>
+</html>
